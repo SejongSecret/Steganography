@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Steganography\Steganography\bin\Debug\Steganography.exe.config
+C:\Users\Administrator\Desktop\Steganography\Steganography\bin\Debug\Steganography.exe
+C:\Users\Administrator\Desktop\Steganography\Steganography\bin\Debug\Steganography.pdb
+C:\Users\Administrator\Desktop\Steganography\Steganography\obj\x86\Debug\Steganography.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Steganography\Steganography\obj\x86\Debug\Steganography.Steganography.resources
+C:\Users\Administrator\Desktop\Steganography\Steganography\obj\x86\Debug\Steganography.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Steganography\Steganography\obj\x86\Debug\Steganography.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Steganography\Steganography\obj\x86\Debug\Steganography.exe
+C:\Users\Administrator\Desktop\Steganography\Steganography\obj\x86\Debug\Steganography.pdb
